@@ -1,1 +1,1 @@
-This is a clone of the google webpage
+This is a non-functional clone of the google webpage
